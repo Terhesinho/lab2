@@ -1,0 +1,22 @@
+<style>
+body{background-color:beige;}
+h1{color:grey;
+   font-family:arial;
+   font-style:bold;
+   text-align:center;}
+h2,h3,h4,h5,h6 {color:orange;
+   font-family:Times New Roman;}
+p{color:maroon;
+  font-family:calibri;}
+table, tr, td, ul{border: 3px solid black;}
+table{background-color: yellow;}
+ul{background-color: white;}
+li{color:green;}
+img{border: 2 px solid black;
+    width:300px;
+    border-radius:10px;}
+#catalog{color:#8B0000;
+        font-family:georgia;
+        font-style:bold;}
+a{font-style:italic;}
+</style>
